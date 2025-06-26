@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Net</string>
+    <string name="lan_amentos">Lançamentos:</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="series">Series</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista1">Minha Lista</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="romance">Romance</string>
+    <string name="magia">Magia</string>
+    <string name="aventura">Aventura</string>
+</resources>
